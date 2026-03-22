@@ -80,6 +80,7 @@ The UI is designed as a **learning tool**, not a chatbot wrapper.
 ---
 
 ## Project Structure
+```bash
 algomentor/
 │
 ├── public/
