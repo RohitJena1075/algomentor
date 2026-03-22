@@ -147,7 +147,7 @@ ASSISTANT:
     // debug once (remove after confirm)
     console.log("COHERE RESPONSE:", response);
 
-    // 🔥 robust parsing (handles all cases)
+    //robust parsing (handles all cases)
      const text = response.text?.trim() || "No response";
 
     return NextResponse.json({
