@@ -6,7 +6,7 @@ It helps users practice problem-solving by providing **hints first** and reveali
 
 ---
 
-## 🎯 Why AlgoMentor?
+## Why AlgoMentor?
 
 Most AI tools give direct answers.
 
@@ -19,14 +19,14 @@ AlgoMentor is built to replicate that experience.
 
 ---
 
-## ✨ Features
+## Features
 
-### 🧠 Interview-style Interaction
+### Interview-style Interaction
 - Default: **Hint-first approach**
 - Solution only when explicitly selected
 - Encourages thinking, not memorization
 
-### 📚 Topic-based Learning
+### Topic-based Learning
 - Arrays
 - Linked List
 - Stack / Queue
@@ -36,25 +36,25 @@ AlgoMentor is built to replicate that experience.
 - Heap
 - Trie
 
-### 📊 Structured Responses
+###  Structured Responses
 Each response includes:
 - Pattern
 - Approach
 - Explanation
 - Complexity (only in solution mode)
 
-### 🎛 Mode Control
+### Mode Control
 - Hint mode (default)
 - Solution mode
 
-### ⚡ Retrieval-based AI
+### Retrieval-based AI
 - Uses a **custom knowledge base**
 - Avoids hallucinations
 - Ensures grounded answers
 
 ---
 
-## 🖥️ UI / Frontend Thinking
+##  UI / Frontend Thinking
 
 This is not a generic chat interface.
 
@@ -70,7 +70,7 @@ The UI is designed as a **learning tool**, not a chatbot wrapper.
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 - **Next.js (App Router)**
 - **TypeScript**
@@ -79,7 +79,7 @@ The UI is designed as a **learning tool**, not a chatbot wrapper.
 
 ---
 
-### 📂 Project Structure
+## Project Structure
 algomentor/
 │
 ├── public/
@@ -110,7 +110,7 @@ algomentor/
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. User asks a question
 2. System retrieves top relevant problems from dataset
@@ -121,7 +121,7 @@ algomentor/
 
 ---
 
-## 🛠️ Run Locally
+## Run Locally
 
 ```bash
 npm install
