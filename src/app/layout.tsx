@@ -20,7 +20,7 @@ export const metadata = {
   description:
     "Practice DSA like real interviews with hints-first guidance and structured solutions.",
    icons: {
-    icon: "/favicon.png",
+    icon: "/logo.png",
   }
 };
 
