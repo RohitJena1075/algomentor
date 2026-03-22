@@ -107,9 +107,6 @@ algomentor/
 ├── .env.local
 ├── package.json
 └── README.md
-
-
----
 ```
 
 ## How It Works
