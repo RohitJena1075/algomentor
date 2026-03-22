@@ -75,12 +75,11 @@ The UI is designed as a **learning tool**, not a chatbot wrapper.
 - **Next.js (App Router)**
 - **TypeScript**
 - **Tailwind CSS**
-- **Cohere API**
 - Custom Retrieval System
 
 ---
 
-## 📂 Project Structure
+### 📂 Project Structure
 algomentor/
 │
 ├── public/
@@ -116,8 +115,7 @@ algomentor/
 1. User asks a question
 2. System retrieves top relevant problems from dataset
 3. Context is built using structured format
-4. Cohere model generates response
-5. Output is constrained:
+4. Output is constrained:
    - Hint mode → partial guidance
    - Solution mode → full explanation
 
