@@ -123,12 +123,6 @@ algomentor/
 
 ---
 
-## 🔐 Environment Variables
-
-Create `.env.local`:
-
----
-
 ## 🛠️ Run Locally
 
 ```bash
