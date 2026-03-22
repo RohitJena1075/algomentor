@@ -12,16 +12,18 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata = {
+export const metadata: Metadata = {
   title: {
     default: "AlgoMentor",
     template: "%s | AlgoMentor",
   },
   description:
     "Practice DSA like real interviews with hints-first guidance and structured solutions.",
-   icons: {
-    icon: "/logo.png",
-  }
+  icons: {
+    icon: [
+      { url: "/logo.png" },
+    ],
+  },
 };
 
 export default function RootLayout({
